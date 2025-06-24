@@ -31,4 +31,18 @@ These published works highlight meticulous attention to detail, nuance, and main
 
 * [cite_start]**Co-Authored Paper: "Notion of Justice in The Merchant of Venice"** 
     * [cite_start]*Description:* A collaborative research paper published by Cambridge Scholars Publishing, demonstrating the ability to co-author a text, synthesize different viewpoints, and present findings to a professional community.
+ 
+---
+
+### Academic Publications & Selected Works
+
+A selection of my peer-reviewed articles and published papers. For a full list, please see my CV.
+
+* **"Carmen Santos: from 'either/or' to 'all'" (2006)**
+    * Published in: *Proceedings of the Pacific Coast Council on Latin American Studies, Vol. 23*.
+    * [Access Full Text via Gale Academic OneFile](https://go.gale.com/ps/i.do?id=GALE%7CA219589477&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=01902229&p=AONE&sw=w&cookieConsent=true&analyticsOptout=false&userGroupName=anon%7Ed45b0290&aty=open-web-entry)
+
+* **"The Notion of Justice in The Merchant of Venice" (2011, co-authored)**
+    * Published in: *IDEA: Studies in English* by Cambridge Scholars Publishing.
+    * *Further details available upon request.*
 <!-- end list -->
